@@ -1,13 +1,14 @@
 <div align="center" style="width: 100%;">
-  <img style="width: 100%; max-width: 500px; border-radius: 15px;" src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif" alt="MasterHead" />
+  <img style="width: 100%; max-width: 500px; border-radius: 15px;" src="https://images.squarespace-cdn.com/content/v1/545fe0fce4b09fab6f839b3c/47b96407-9f26-49ff-8181-cdc75ca34e8d/Walk-Spring-1920x400.gif?format=1500w" alt="MasterHead" />
 </div>
+
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jh0ny1.Jh0ny1" />
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=55&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+João+Pedro!;&color=4A28BE" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+João+Pedro!;&color=FBE0AD" />
 </h1>
 
 
