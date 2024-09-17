@@ -1,5 +1,5 @@
 <div align="center" style="width: 100%;">
-  <img style="width: 100%; max-width: 500px; border-radius: 150px;" src="https://images.squarespace-cdn.com/content/v1/545fe0fce4b09fab6f839b3c/47b96407-9f26-49ff-8181-cdc75ca34e8d/Walk-Spring-1920x400.gif?format=1500w" alt="MasterHead" />
+  <img style="width: 100%; max-width: 500px; border-radius: 250px;" src="https://images.squarespace-cdn.com/content/v1/545fe0fce4b09fab6f839b3c/47b96407-9f26-49ff-8181-cdc75ca34e8d/Walk-Spring-1920x400.gif?format=1500w" alt="MasterHead" />
 </div>
 
 
@@ -65,7 +65,7 @@ I'm a tech enthusiast 💻, fascinated by innovation. I'm currently diving into 
     <p><strong>Project 1:</strong> <a href="https://github.com/Jh0ny1/desafioDIO_sistema_banco-Python"target="_blank"><strong>Simple Bank System</strong></a></p>
         <p>NãoBank is a simple banking system developed in Python, with a graphical interface using <strong>Tkinter</strong> and <strong>GPT</strong>.</p>
     <br/>
-    <p><strong>Project 2:</strong> <a href="https://github.com/Jh0ny1/desafioDIO_sistema_banco-Python"target="_blank"><strong>GitGinder</strong></a></p>
+    <p><strong>Project 2:</strong> <a href="https://github.com/Jh0ny1/GitFinds"target="_blank"><strong>GitGinder</strong></a></p>
         <p>Mostra a bios e todos os repositórios do usuario escrito no campo input</strong>.</p>
     <p>
     <strong>Project 3:</strong> <a>🚧 Working in Progress 🚧</a></p>
