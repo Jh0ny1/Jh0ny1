@@ -1,5 +1,5 @@
 <div align="center" style="width: 100%;">
-  <img style="width: 100%; max-width: 500px; border-radius: 15px;" src="https://images.squarespace-cdn.com/content/v1/545fe0fce4b09fab6f839b3c/47b96407-9f26-49ff-8181-cdc75ca34e8d/Walk-Spring-1920x400.gif?format=1500w" alt="MasterHead" />
+  <img style="width: 100%; max-width: 500px; border-radius: 150px;" src="https://images.squarespace-cdn.com/content/v1/545fe0fce4b09fab6f839b3c/47b96407-9f26-49ff-8181-cdc75ca34e8d/Walk-Spring-1920x400.gif?format=1500w" alt="MasterHead" />
 </div>
 
 
@@ -65,18 +65,20 @@ I'm a tech enthusiast 💻, fascinated by innovation. I'm currently diving into 
     <p><strong>Project 1:</strong> <a href="https://github.com/Jh0ny1/desafioDIO_sistema_banco-Python"target="_blank"><strong>Simple Bank System</strong></a></p>
         <p>NãoBank is a simple banking system developed in Python, with a graphical interface using <strong>Tkinter</strong> and <strong>GPT</strong>.</p>
     <br/>
-    <p><strong>Project 2:</strong> <a>🚧 Working in Progress 🚧</a></p>
-    <strong> <p>naobank v2 coming soon</p>
+    <p><strong>Project 2:</strong> <a href="https://github.com/Jh0ny1/desafioDIO_sistema_banco-Python"target="_blank"><strong>GitGinder</strong></a></p>
+        <p>Mostra a bios e todos os repositórios do usuario escrito no campo input</strong>.</p>
+    <p>
+    <strong>Project 3:</strong> <a>🚧 Working in Progress 🚧</a></p>
 </div>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center" style="width: 100%;">
-  <img style="width: 100%; max-width: 500px; color: #4A28BE;" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Jh0ny1&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img style="width: 100%; max-width: 500px; color: #4A28BE;" src="https://github-readme-stats-salesp07.vercel.app/api?username=Jh0ny1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_title=true&" alt="readme stats" />
+<div align="center" style="width: 90%;">
+  <img style="width: 90%; max-width: 500px; color: #4A28BE;" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Jh0ny1&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img style="width: 90%; max-width: 500px; color: #4A28BE;" src="https://github-readme-stats-salesp07.vercel.app/api?username=Jh0ny1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_title=true&" alt="readme stats" />
   <br/>
-  <img style="width: 100%; max-width: 500px; color: #4A28BE;" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Jh0ny1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img style="width: 90%; max-width: 500px; color: #4A28BE;" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Jh0ny1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 
